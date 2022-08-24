@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Everyone!! 👋
 
 This is **Akshay Tyagi**✨ _special_ ✨ repository 
 
