@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**kakshaytyagi/kakshaytyagi** is a ✨ _special_ ✨ repository 
+This is **Akshay Tyagi**✨ _special_ ✨ repository 
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Data Structures and Algorithms skills
