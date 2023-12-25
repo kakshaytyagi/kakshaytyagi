@@ -18,9 +18,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kakshaytyagi"  />
-</div>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=kakshaytyagi&label=Profile%20Views&color=0&pretty=true" />
+</a>
 
 ###
 
