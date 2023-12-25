@@ -22,7 +22,8 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">#👩‍💻 About Me:
+</h3>
 
 ###
 
@@ -77,7 +78,6 @@
 
 ###
 
-# 💫 About Me:
 
 - 🔭 **I’m currently working on:**
   Improving cloud-based solutions and implementing microservices architecture.
