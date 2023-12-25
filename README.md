@@ -97,7 +97,7 @@ Java || Spring Boot 3.0.0 >> API's || Flutter Development || Python || C/C++ Lea
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kakshaytyagi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kakshaytyagi&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakshaytyagi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🔝 Top Contributed Repo:
