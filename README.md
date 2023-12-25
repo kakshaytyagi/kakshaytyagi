@@ -18,9 +18,11 @@
 
 ###
 
+<div align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=kakshaytyagi&label=Profile%20Views&color=0&pretty=true" />
 </a>
+</div>
 
 ###
 
