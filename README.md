@@ -70,8 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/restfulapi/restfulapi-ar21.svg" height="40" alt="REST Logo" />
 </div>
 
 
