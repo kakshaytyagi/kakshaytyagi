@@ -27,8 +27,21 @@
 
 ###
 
-<p align="left">I'm Akshay from India <br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Android Development<br>- ⚡ In my free time I explore new technologies</p>
+- 🔭 **I’m currently working on:**
+  <br>Flutter Development and implementing microservices architecture.<br>
 
+- 👯 **I’m looking to collaborate on:**<br>
+  Fullstack projects.<br>
+
+- 🌱 **I’m currently learning:**
+  <br>Advanced Android Apps and Firebase.<br>
+
+- 💬 **Ask me about:**
+  <br>Java, Flutter, Dart, Node.js, AWS, and any general software development questions.<br>
+
+- ⚡ **Fun fact:**
+  <br>I love creating applications.<br>
+  
 ###
 
 <h1 align="left">🛠 Language and tools</h1>
@@ -78,21 +91,6 @@
 
 ###
 
-
-- 🔭 **I’m currently working on:**
-  Improving cloud-based solutions and implementing microservices architecture.
-
-- 👯 **I’m looking to collaborate on:**
-  Fullstack projects.
-
-- 🌱 **I’m currently learning:**
-  Advanced AWS Services and GraphQL.
-
-- 💬 **Ask me about:**
-  JavaScript, React, Next.js, Node.js, AWS, and any general software development questions.
-
-- ⚡ **Fun fact:**
-  I love creating content.
 
 ## 🌐 Socials:
 
