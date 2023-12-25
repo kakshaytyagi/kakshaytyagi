@@ -18,14 +18,6 @@
 
 ###
 
-<div align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=kakshaytyagi&label=Profile%20Views&color=0&pretty=true" />
-</a>
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -114,8 +106,9 @@ Java || Spring Boot 3.0.0 >> API's || Flutter Development || Python || C/C++ Lea
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=nwaliaez&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-![Visit Count](https://visitcount.itsvg.in/api?id=nwaliaez&icon=0&color=0)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=kakshaytyagi&label=Profile%20Views&color=0&pretty=true" />
+</a>
 
 <h3 align="left">🔥   My Stats :</h3>
 
