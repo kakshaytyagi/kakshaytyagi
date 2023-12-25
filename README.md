@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/akshay_tyagi03) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/akshay_tyagi03) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaytyagi11092004/) 
 </div>
 
 ###
@@ -91,14 +91,9 @@
 
 ###
 
-
-## 🌐 Socials:
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ezSnippet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ezSnippet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezSnippet) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20331641) 
-
 # 💻 Tech Stack:
 
-NodeJS AWS CSS3 JavaScript HTML5 GraphQL PHP Python Solidity TypeScript Vercel Apollo-GraphQL Bootstrap Electron.js Chart.js Chakra Express.js Next JS MUI JWT Redux Socket.io React Router React TailwindCSS Yarn MongoDB MySQL Postgres Redis Supabase LINUX ESLint ElasticSearch Jira Docker Kubernetes Notion
+Java || Spring Boot 3.0.0 >> API's || Flutter Development || Python || C/C++ Learner || Web Development >> HTML, CSS, Javascript & PHP || Specialization >> Cloud Computing Architecture (AWS) || React & Node js || Git/Github || Data Structures || Networking || Mathematics Mind || Enthusiastic Learner ||《LINUX USER》|| Notion
 
 # 📊 GitHub Stats:
 
