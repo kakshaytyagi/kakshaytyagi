@@ -71,7 +71,7 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/rest/REST-ar21.svg" height="40" alt="rest logo"  />
+  <img src="https://www.vectorlogo.zone/logos/restfulapi/restfulapi-ar21.svg" height="40" alt="REST Logo" />
 </div>
 
 
