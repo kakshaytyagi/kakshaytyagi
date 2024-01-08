@@ -101,11 +101,8 @@ Java || Spring Boot 3.0.0 >> API's || Flutter Development || Python || C/C++ Lea
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=kakshaytyagi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=kakshaytyagi&label=Profile%20Views&color=0&pretty=true" />
-</a>
 
-![](https://komarev.com/ghpvc/?username=kakshaytyagi)
+![](https://komarev.com/ghpvc/?username=kakshaytyagi&color=green)
 
 <h3 align="left">🔥   My Stats :</h3>
 
