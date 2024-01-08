@@ -105,6 +105,8 @@ Java || Spring Boot 3.0.0 >> API's || Flutter Development || Python || C/C++ Lea
   <img src="https://visitcount.itsvg.in/api?id=kakshaytyagi&label=Profile%20Views&color=0&pretty=true" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=kakshaytyagi)
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
