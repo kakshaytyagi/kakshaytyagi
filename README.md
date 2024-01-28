@@ -1,5 +1,9 @@
 ###
 
+<h1 align="center">hey there 👋</h1>
+
+###
+
 <div align="center">
   <a href="https://twitter.com/akshay_tyagi03">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" />
@@ -11,10 +15,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
