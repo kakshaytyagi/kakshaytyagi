@@ -1,6 +1,5 @@
 /*<img src = "https://github.com/manushiez/manushiez/blob/main/MANUSHI%20tyagi%20(3).png" align="center"> */
 <h1 align="center" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akshay </h1>
-###
 
 - 🔭 **I’m currently working on:**
   <br>Flutter Development and implementing microservices architecture.<br>
@@ -17,7 +16,6 @@
 - ⚡ **Fun fact:**
   <br>I love creating applications.<br>
   
-###
 
  <hr>
 
