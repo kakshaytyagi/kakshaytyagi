@@ -1,26 +1,5 @@
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<div align="center">
-  <a href="https://twitter.com/akshay_tyagi03">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/akshay_tyagi03">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/akshaytyagi11092004/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-###
-
-<h1 align="left">👩‍💻 About Me:
-</h1>
-
+<img src = "https://github.com/manushiez/manushiez/blob/main/MANUSHI%20tyagi%20(3).png" align="center">
+<h1 align="center" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akshay </h1>
 ###
 
 - 🔭 **I’m currently working on:**
@@ -40,9 +19,30 @@
   
 ###
 
-<h1 align="left">🛠 Language and tools</h1>
+ <hr>
 
-###
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....*** 
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+  
+  
+  <p>
+ 
+ 
+ <p align="left">
+  <a href="https://www.linkedin.com/in/akshaytyagi11092004/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
+  <a title="akshaytyagi3102003@gmail.com" href="mailto:akshaytyagi3102003@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&emsp;
+  <a href="https://wa.me/9870864763" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>&emsp;
+  
+</p>
+ 
+ 
+ </p>
+
+
+
+ <hr>
+ <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
+<p >
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
@@ -85,31 +85,51 @@
 </div>
 
 
-###
+ <br/>
 
-# 💻 Tech Stack:
+ <hr>
 
-Java || Spring Boot 3.0.0 >> API's || Flutter Development || Python || C/C++ Learner || Web Development >> HTML, CSS, Javascript & PHP || Specialization >> Cloud Computing Architecture (AWS) || React & Node js || Git/Github || Data Structures || Networking || Mathematics Mind || Enthusiastic Learner ||《LINUX USER》|| Notion
+<h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
+<p>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="intellij" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Android%20Studio-100500?style=for-the-badge&logo=androidstudio&logoColor=green" alt="androidstudio" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vercel-0078D4?style=for-the-badge&logo=vercel&logoColor=black" alt="vercel" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
+ 
 
-# 📊 GitHub Stats:
+<hr>
+<p align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kakshaytyagi&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakshaytyagi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🔝 Top Contributed Repo:
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=kakshaytyagi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manushiez&theme=chartreuse-dark"  />
+<br/><br/><br/>
+<a href="https://github.com/kakshaytyagi"><span>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kakshaytyagi&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=kakshaytyagi&color=green)
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
+<br/>
+<hr clear="both"> 
+ <br/>
+<p align="center">
+<a href="https://github.com/kakshaytyagi"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakshaytyagi&theme=dracula" />
+</span></a> </p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kakshaytyagi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
-###
+ <br/>
+<!-- GitHub Cup's   -->
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=kakshaytyagi&theme=vue" alt=""/> </p>
+
+
+
+<hr clear="both">
