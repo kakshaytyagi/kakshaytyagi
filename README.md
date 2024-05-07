@@ -71,8 +71,6 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
@@ -91,8 +89,8 @@
 <p>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="intellij" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Android%20Studio-100500?style=for-the-badge&logo=androidstudio&logoColor=green" alt="androidstudio" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Android%20Studio-00C7B7?style=for-the-badge&logo=androidstudio&logoColor=green" alt="androidstudio" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vercel-0078D4?style=for-the-badge&logo=vercel&logoColor=black" alt="vercel" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
