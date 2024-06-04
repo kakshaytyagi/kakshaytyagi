@@ -122,14 +122,12 @@
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=kakshaytyagi&style=for-the-badge&color=green" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=green" alt=""/>
 </div>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-
 
 
 <br/>
