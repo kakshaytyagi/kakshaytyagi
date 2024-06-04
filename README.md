@@ -101,8 +101,6 @@
 </p>
 
 
----
-
   
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=kakshaytyagi&theme=chartreuse-dark&hide_border=true&border_radius=5&card_width=800">
@@ -110,8 +108,6 @@
 
 
 ---
-
-
 
 
 <p align="center">
@@ -126,7 +122,7 @@
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
 
